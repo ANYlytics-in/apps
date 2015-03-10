@@ -1,2 +1,2 @@
 # apps
-Applications under ANYlytics
+Applications developed under ANYlytics.in umbrella
